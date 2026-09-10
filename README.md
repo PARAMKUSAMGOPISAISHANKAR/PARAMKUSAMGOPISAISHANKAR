@@ -35,11 +35,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="coding gif"/>
-
-​```yaml
 name        : Paramkusam Gopi Sai Shankar
 role        : AI Solution Developer & Full Stack Engineer
 degree      : B.Tech in Artificial Intelligence & Machine Learning
@@ -68,7 +63,6 @@ currently:
 
 status    : "Open to Work 🟢"
 fun_fact  : "I turn ☕ coffee into 💡 working code!"
-​```
 
 <br clear="right"/>
 
