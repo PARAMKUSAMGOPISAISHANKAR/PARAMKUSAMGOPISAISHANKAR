@@ -34,33 +34,42 @@
 </div>
 
 ---
-## 🧑‍💻 About Me
 
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif"/>
+## 👨‍💻 About Me
 
-```yaml
-name        : Atthiraju Raviteja
-role        : AI Solutions Developer & Full Stack Engineer
-degree      : B.Tech in Artificial Intelligence & Machine Learning
-institute   : NRI Institute of Technology
-cgpa        : 8.7 / 10.0
-location    : Andhra Pradesh, India 🇮🇳
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 
-passions:
-  - Artificial Intelligence & Machine Learning
-  - Explainable AI (XAI)
-  - Full Stack Development
-  - Prompt Engineering & LLM Research
-  - Hackathons & Research Projects
+### 👋 Hi, I'm Paramkusam Gopi Sai Shankar
 
-currently:
-  - 🔭 Exploring cutting-edge AI & LLM technologies
-  - 🌱 Building real-world AI-powered applications
-  - 🤝 Open to collaborations & research opportunities
+I'm an **Aspiring Software Developer 🚀** based in **India 🇮🇳**, passionate about building practical, scalable software and exploring the world of Artificial Intelligence & Machine Learning.
 
-fun_fact: "I turn ☕ coffee into 🤖 intelligent solutions!"
+#### 💻 Technical Skills
+**Python** · **Java** · **SQL** · **JavaScript** · **HTML** · **CSS**
 
-<br clear="right"/>
+#### 🧩 Frameworks & Libraries
+**Django** · **Scikit-Learn** · **Pandas** · **NumPy**
+
+#### 🛠️ Tools & Platforms
+**Git** · **GitHub** · **SQLite** · **VS Code** · **Linux** · **CustomTkinter**
+
+#### 🌱 Interests
+- 🤖 Machine Learning
+- 📊 AI & Predictive Analytics
+- 🌐 Full-Stack Development
+- 🔬 Data Science
+
+#### 📖 Currently Learning
+- Advanced Machine Learning
+- REST API Development
+- Cloud Computing
+- DevOps
+- Software Design Patterns
+- Full-Stack Application Development
+
+#### 🎯 Career Focus
+I am focused on becoming a **skilled software engineer** by building practical, scalable, and impactful software solutions. I enjoy learning new technologies, solving problems, working on real-world projects, and continuously improving my technical skills.
+
+> 🤝 **Open to collaboration** — let's build something amazing together!
 
 <br clear="right"/>
 
