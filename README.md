@@ -34,6 +34,9 @@
 </div>
 
 ---
+## 👨‍💻 About Me
+
+
 
 name        : Paramkusam Gopi Sai Shankar
 role        : AI Solution Developer & Full Stack Engineer
@@ -63,7 +66,6 @@ currently:
 
 status    : "Open to Work 🟢"
 fun_fact  : "I turn ☕ coffee into 💡 working code!"
-
 <br clear="right"/>
 
 <br clear="right"/>
