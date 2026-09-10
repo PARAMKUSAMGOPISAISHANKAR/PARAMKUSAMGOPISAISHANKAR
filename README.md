@@ -39,10 +39,11 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding gif"/>
 
-​```yaml
-name       : Paramkusam Gopi Sai Shankar
-role       : Aspiring Software Developer 🚀
-location   : India 🇮🇳
+​Name        : Paramkusam Gopi Sai Shankar
+Role        : AI Solution Developer & Full Stack Engineer
+Degree      : B.Tech in Artificial Intelligence & Machine Learning
+Institute   : NRI Institute of Technology
+Location    : Andhra Pradesh, India 🇮🇳
 
 skills:
   - Python, Java, SQL, JavaScript, HTML, CSS
