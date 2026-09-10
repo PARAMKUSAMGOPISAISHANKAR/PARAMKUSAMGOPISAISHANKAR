@@ -40,24 +40,24 @@
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif"/>
 
 ```yaml
-name        : Atthiraju Raviteja
-role        : AI Solutions Developer & Full Stack Engineer
-degree      : B.Tech in Artificial Intelligence & Machine Learning
-institute   : NRI Institute of Technology
-cgpa        : 8.7 / 10.0
-location    : Andhra Pradesh, India 🇮🇳
+Name        : Paramkusam Gopi Sai Shankar
+Role        : AI Solutions Developer & Full Stack Engineer
+Degree      : B.Tech in Artificial Intelligence & Machine Learning
+Institute   : NRI Institute of Technology
+Location    : Andhra Pradesh, India 🇮🇳
 
-passions:
-  - Artificial Intelligence & Machine Learning
-  - Explainable AI (XAI)
-  - Full Stack Development
-  - Prompt Engineering & LLM Research
-  - Hackathons & Research Projects
+#### 🌱 Interests
+- 🤖 Machine Learning
+- 📊 AI & Predictive Analytics
+- 🌐 Full-Stack Development
 
-currently:
-  - 🔭 Exploring cutting-edge AI & LLM technologies
-  - 🌱 Building real-world AI-powered applications
-  - 🤝 Open to collaborations & research opportunities
+#### 📖 Currently Learning
+- Advanced Machine Learning
+- REST API Development
+- Cloud Computing
+- DevOps
+- Software Design Patterns
+- Full-Stack Application Development
 
 fun_fact: "I turn ☕ coffee into 🤖 intelligent solutions!"
 ```
