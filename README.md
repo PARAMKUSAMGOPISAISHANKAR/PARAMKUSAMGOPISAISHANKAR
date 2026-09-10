@@ -37,7 +37,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="360" src="[https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif]" alt="coding gif"/>
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Like Animation" width="200"/>
 
 ```yaml
 Name        : Paramkusam Gopi Sai Shankar
