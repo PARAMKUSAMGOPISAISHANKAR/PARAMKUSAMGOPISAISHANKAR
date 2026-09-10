@@ -37,7 +37,16 @@
 
 ## 🧑‍💻 About Me
 
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Like Animation" width="200"/>
+## 🎁 About Me
+
+<table>
+<tr>
+<td width="250">
+
+<img src="[https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif]" width="220"/>
+
+</td>
+<td>
 
 ```yaml
 Name        : Paramkusam Gopi Sai Shankar
