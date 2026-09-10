@@ -139,8 +139,22 @@ fun_fact: "I turn ☕ coffee into 🤖 intelligent solutions!"
 
 <div align="center">
 
-[![Smart Password Generator](https://github-readme-stats.vercel.app/api/pin/?username=PARAMKUSAMGOPISAISHANKAR&repo=Smart-Password-Generator&theme=tokyonight&border_color=534AB7&title_color=7F77DD&icon_color=1D9E75)](https://github.com/PARAMKUSAMGOPISAISHANKAR)
-[![Student Performance Predictor](https://github-readme-stats.vercel.app/api/pin/?username=PARAMKUSAMGOPISAISHANKAR&repo=Student-Performance-Predictor&theme=tokyonight&border_color=534AB7&title_color=7F77DD&icon_color=1D9E75)](https://github.com/PARAMKUSAMGOPISAISHANKAR)
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/PARAMKUSAMGOPISAISHANKAR/Smart-Password-Generator">
+<img src="./assets/smart-password-generator.png" width="380" alt="Smart Password Generator"/><br/>
+<b>🔐 Smart Password Generator</b>
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/PARAMKUSAMGOPISAISHANKAR/Student-Performance-Predictor">
+<img src="./assets/student-performance-predictor.png" width="380" alt="Student Performance Predictor"/><br/>
+<b>📊 Student Performance Predictor</b>
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
