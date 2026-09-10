@@ -39,37 +39,29 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding gif"/>
 
-### 👋 Hi, I'm Paramkusam Gopi Sai Shankar
+​```yaml
+name       : Paramkusam Gopi Sai Shankar
+role       : Aspiring Software Developer 🚀
+location   : India 🇮🇳
 
-I'm an **Aspiring Software Developer 🚀** based in **India 🇮🇳**, passionate about building practical, scalable software and exploring the world of Artificial Intelligence & Machine Learning.
+skills:
+  - Python, Java, SQL, JavaScript, HTML, CSS
+  - Django, Scikit-Learn, Pandas, NumPy
+  - Git, GitHub, SQLite, VS Code, Linux, CustomTkinter
 
-#### 💻 Technical Skills
-**Python** · **Java** · **SQL** · **JavaScript** · **HTML** · **CSS**
+passions:
+  - 🤖 Machine Learning
+  - 📊 AI & Predictive Analytics
+  - 🌐 Full-Stack Development
+  - 🔬 Data Science
 
-#### 🧩 Frameworks & Libraries
-**Django** · **Scikit-Learn** · **Pandas** · **NumPy**
+currently:
+  - 🧠 Leveling up in Advanced Machine Learning & REST APIs
+  - ☁️ Exploring Cloud Computing, DevOps & Design Patterns
+  - 🤝 Open to collaboration & real-world projects
 
-#### 🛠️ Tools & Platforms
-**Git** · **GitHub** · **SQLite** · **VS Code** · **Linux** · **CustomTkinter**
-
-#### 🌱 Interests
-- 🤖 Machine Learning
-- 📊 AI & Predictive Analytics
-- 🌐 Full-Stack Development
-- 🔬 Data Science
-
-#### 📖 Currently Learning
-- Advanced Machine Learning
-- REST API Development
-- Cloud Computing
-- DevOps
-- Software Design Patterns
-- Full-Stack Application Development
-
-#### 🎯 Career Focus
-I am focused on becoming a **skilled software engineer** by building practical, scalable, and impactful software solutions. I enjoy learning new technologies, solving problems, working on real-world projects, and continuously improving my technical skills.
-
-> 🤝 **Open to collaboration** — let's build something amazing together!
+fun_fact: "I turn ☕ coffee into 💡 working code!"
+​```
 
 <br clear="right"/>
 
