@@ -37,17 +37,22 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="coding gif"/>
 
-​Name        : Paramkusam Gopi Sai Shankar
-Role        : AI Solution Developer & Full Stack Engineer
-Degree      : B.Tech in Artificial Intelligence & Machine Learning
-Institute   : NRI Institute of Technology
-Location    : Andhra Pradesh, India 🇮🇳
+​```yaml
+name        : Paramkusam Gopi Sai Shankar
+role        : AI Solution Developer & Full Stack Engineer
+degree      : B.Tech in Artificial Intelligence & Machine Learning
+institute   : NRI Institute of Technology
+location    : Andhra Pradesh, India 🇮🇳
 
-skills:
+languages:
   - Python, Java, SQL, JavaScript, HTML, CSS
+
+frameworks:
   - Django, Scikit-Learn, Pandas, NumPy
+
+tools:
   - Git, GitHub, SQLite, VS Code, Linux, CustomTkinter
 
 passions:
@@ -61,8 +66,11 @@ currently:
   - ☁️ Exploring Cloud Computing, DevOps & Design Patterns
   - 🤝 Open to collaboration & real-world projects
 
-fun_fact: "I turn ☕ coffee into 💡 working code!"
+status    : "Open to Work 🟢"
+fun_fact  : "I turn ☕ coffee into 💡 working code!"
 ​```
+
+<br clear="right"/>
 
 <br clear="right"/>
 
