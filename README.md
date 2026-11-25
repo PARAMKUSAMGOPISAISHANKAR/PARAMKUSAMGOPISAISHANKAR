@@ -94,7 +94,6 @@ fun_fact: "I turn ☕ coffee into 🤖 intelligent solutions!"
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### 🤖 LLMs & Prompt Engineering
@@ -102,8 +101,6 @@ fun_fact: "I turn ☕ coffee into 🤖 intelligent solutions!"
   <img src="https://img.shields.io/badge/OpenAI%20GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude%20(Anthropic)-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Perplexity%20AI-1F1F1F?style=for-the-badge&logo=perplexity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 </p>
 
 ### 🧰 Developer Tools & Platforms
@@ -124,11 +121,11 @@ fun_fact: "I turn ☕ coffee into 🤖 intelligent solutions!"
 
 | Skill | Proficiency |
 |:------|:-----------|
-| 🐍 Python Development | ![85%](https://geps.dev/progress/85?dangerColor=534AB7&warningColor=7F77DD&successColor=1D9E75) |
-| 🤖 Machine Learning | ![75%](https://geps.dev/progress/75?dangerColor=534AB7&warningColor=7F77DD&successColor=1D9E75) |
+| 🐍 Python Development | ![70%](https://geps.dev/progress/85?dangerColor=534AB7&warningColor=7F77DD&successColor=1D9E75) |
+| 🤖 Machine Learning | ![70%](https://geps.dev/progress/75?dangerColor=534AB7&warningColor=7F77DD&successColor=1D9E75) |
 | 📊 Data Analysis | ![70%](https://geps.dev/progress/70?dangerColor=534AB7&warningColor=7F77DD&successColor=1D9E75) |
 | 🌐 Django / Web Dev | ![65%](https://geps.dev/progress/65?dangerColor=534AB7&warningColor=7F77DD&successColor=1D9E75) |
-| 🧩 Problem Solving | ![90%](https://geps.dev/progress/90?dangerColor=534AB7&warningColor=7F77DD&successColor=1D9E75) |
+| 🧩 Problem Solving | ![70%](https://geps.dev/progress/90?dangerColor=534AB7&warningColor=7F77DD&successColor=1D9E75) |
 | 🗄️ Database Management | ![72%](https://geps.dev/progress/72?dangerColor=534AB7&warningColor=7F77DD&successColor=1D9E75) |
 
 </div>
